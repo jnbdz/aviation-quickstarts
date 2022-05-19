@@ -5,19 +5,13 @@
 <tbody>
 <tr>
   <td><strong>Alfa</strong></td>
-  <td valign="top">a Greek letter<br>
-  </td>
-  <td valign="top"><strong>Hotel</strong></td>
-  <td valign="top">where a pilot stays<br>
-  </td>
-  <td valign="top"><strong>Oscar</strong><br>
-  </td>
-  <td valign="top">a German name<br>
-  </td>
-  <td valign="top"><strong>Victor</strong><br>
-  </td>
-  <td valign="top">a Slavic name<br>
-  </td>
+  <td>a Greek letter<br></td>
+  <td><strong>Hotel</strong></td>
+  <td>where a pilot stays<br></td>
+  <td><strong>Oscar</strong><br></td>
+  <td>a German name<br></td>
+  <td><strong>Victor</strong><br></td>
+  <td>a Slavic name<br></td>
 </tr>
 <tr>
   <td><strong>Bravo</strong></td>
