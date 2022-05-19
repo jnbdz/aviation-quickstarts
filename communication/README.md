@@ -116,3 +116,9 @@
 </tr>
 </tbody>
 </table>
+
+## Visual Signals
+
+## Resources
+- [Section 2 Commentary - Robyn's Improved PSTAR Study Guide](https://www.flyingstart.ca/FlightTraining/PSTAR/2As.htm)
+- [Section 3 Commentary - Robyn's Improved PSTAR Study Guide](view-source:https://www.flyingstart.ca/FlightTraining/PSTAR/3As.htm)
