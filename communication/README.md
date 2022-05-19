@@ -1,4 +1,11 @@
 # Communication
+**IMPORTANT!**
+> If you have not clearly heard a transmission, reply "**say again**".
+> 
+> The transmission will be repeated.
+> 
+> If you did not understand a transmission, reply "**I do not understand**".
+> The transmission will be explained.
 
 ## Phonetic alphabet
 <table>
