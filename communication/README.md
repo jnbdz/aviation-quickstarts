@@ -1,7 +1,7 @@
 # Communication
 
 ## Phonetic alphabet
-<table width="100%" cellspacing="2" cellpadding="2" border="1">
+<table>
 <tbody>
 <tr>
   <td><strong>Alfa</strong></td>
@@ -20,7 +20,7 @@
   </td>
 </tr>
 <tr>
-  <td>Bravo</td>
+  <td><strong>Bravo</strong></td>
   <td valign="top">an Italian cheer<br>
   </td>
   <td valign="top"><strong>India</strong></td>
