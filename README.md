@@ -1,5 +1,5 @@
 # aviation-quickstarts
-Aviation quickstarts! (nothing is quick here ;) )
+Aviation quickstarts! (nothing is quick here 😉)
 ![](./assets/aviation.png)
 
 ## Resources
