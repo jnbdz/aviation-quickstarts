@@ -28,8 +28,7 @@ V<sub>HP</sub> = 9√Tire Pressure <!--<math display="block" xmlns="http://www.w
 ### Avgas
 - Total pounds Avgas = (# Gallons) x (6.0 lbs per gallon)
 - Total gallons Avgas = (Pounds Avgas) ÷ (6.0 lbs per gallon),
-    or
-    Total gallons Avgas = [(Pounds Avgas) x (1⅔)] ÷ 10
+- **or** Total gallons Avgas = [(Pounds Avgas) x (1⅔)] ÷ 10
 
 ### Jet A
 
