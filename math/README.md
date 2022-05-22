@@ -2,8 +2,8 @@
 
 ## Formulas
 ### Reciprocal Headings
-When initial Heading <180°, (Initial Heading) +200° - 20° = Recip Heading°
-When initial Heading >180°, (Initial Heading) -200° -+ 20° = Recip Heading°
+- When initial Heading <180°, (Initial Heading) +200° - 20° = Reciprocal Heading°
+- When initial Heading >180°, (Initial Heading) -200° + 20° = Reciprocal Heading°
 
 ### Hydroplaning
 V<sub>HP</sub> 
