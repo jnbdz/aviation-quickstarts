@@ -10,14 +10,26 @@
 V<sub>HP</sub> = 9√Tire Pressure <!--<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>9<msqrt><mn>Tire Pressure</mn></msqrt></mrow></semantics></math>-->
 
 ### Temperature Conversions
+- °F = ([9/5] * °C) + 32
+- °C = (°F - 32) x (5/9)
 
 ### Temperature Lapse Rate
+- ISA Temp Lapse Rate = 2°C (or 3.5°F) per 1,000'
+- Moist Temp Lapse Rate = 2.5°C (or 4.5°F) per 1,000'
 
 ### Pressure Altitude
+- PA = Indicated Altitude ± Altimeter
+     Setting Correction
+- Altimeter Setting Correction = (QNH - 29.92) x 1,000'
 
 ### Drift Angle
+- Drift Angle = (Crosswind Component) x 60 ÷ TAS
 
 ### Avgas
+- Total pounds Avgas = (# Gallons) x (6.0 lbs per gallon)
+- Total gallons Avgas = (Pounds Avgas) ÷ (6.0 lbs per gallon),
+    or
+    Total gallons Avgas = [(Pounds Avgas) x (1⅔)] ÷ 10
 
 ### Jet A
 
