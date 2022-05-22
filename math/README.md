@@ -1,5 +1,6 @@
 # Math | Aviation | Quickstarts
 ![](./assets/cal-banner.png)
+*Source: https://wordpress.org/openverse/image/ce00a96e-f214-4171-a16c-213aed18fcb3*
 ## Formulas
 ### Reciprocal Headings
 - When initial Heading <180°, (Initial Heading) +200° - 20° = Reciprocal Heading°
