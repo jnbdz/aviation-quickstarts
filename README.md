@@ -1,6 +1,6 @@
 # aviation-quickstarts
 Aviation quickstarts! (nothing is quick here 😉)
-![](./assets/aviation.png)
+![](./assets/aviation.jpg)
 
 ## Resources
 - [LiveATC.net](https://www.liveatc.net/)
