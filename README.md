@@ -4,6 +4,7 @@ Aviation quickstarts! (nothing is quick here 😉)
 
 ## Resources
 - [LiveATC.net](https://www.liveatc.net/)
+- [ADS-B Exchange - tracking thousands of aircraft](https://globe.adsbexchange.com/)
 ### Linux
 - [GNU/Linux Aviation HOWTO | The Linux Documentation Project](https://tldp.org/HOWTO/html_single/Aviation-HOWTO/)
 - [Linux Aviation HOWTO: Soaring Software](http://www.ibiblio.org/fplan/Aviation-HOWTO/Aviation-HOWTO-9.html)
