@@ -21,12 +21,114 @@
 
   <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#fafafa">
+
+  <style>
+    body {
+      font-family: Helvetica, Arial, Sans-Serif;
+    }
+
+    section {
+      display: block;
+      border: 1px solid #ccc;
+    }
+
+    table {
+      border: 1px solid black; 
+    }
+
+    thead {
+      border-bottom: 1px solid black;
+    }
+
+    tr {
+      border-top: 1px solid black;
+    }
+
+    th, td {
+      border-right: 1px solid black;
+    }
+  </style>
 </head>
 
 <body>
+  <h1>Navigation Planning</h1>
+
+  <section>
+    <table>
+      <thead>
+        <tr>
+          <th><dfn title="A trip of an aircraft, from take-off to landing">Leg</dfn></th>
+          <th><abbr title="True Airspeed">TAS</abbr></th>
+          <th><abbr title="Calibrated Airspeed">CAS</abbr></th>
+          <th><abbr title="Indicated Airspeed">IAS</abbr></th>
+          <th><abbr title="Revolutions Per Minute">RPM</abbr></th>
+          <th><dfn title="">FUEL BURN</dfn></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><input type="text" name="leg"></td>
+          <td><input type="text" name="tas"></td>
+          <td><input type="text" name="cas"></td>
+          <td><input type="text" name="ias"></td>
+          <td><input type="text" name="rpm"></td>
+          <td><input type="text" name="fuel-burn"></td> 
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <table>
+      <thead>
+        <tr>
+          <th><abbr title="">Wp</abbr></th>
+          <th><dfn title="Indicate your destination">From / To</dfn></th>
+          <th><dfn title="">True Track</dfn></th>
+          <th><dfn title="">Mag Track</dfn></th>
+          <th><abbr title="">MEF</abbr></th>
+          <th><abbr title="">AIL</abbr></th>
+          <th><dfn title="">Wind Dir./Speed</dfn></th>
+          <th><dfn title="Tempature">Temp.</dfn></th>
+          <th><dfn title="">True Heading</dfn></th>
+          <th><dfn title="">Mag Heading</dfn></th>
+          <th><dfn title="">Compass deviation</dfn></th>
+          <th><dfn title="">Compass Heading</dfn></th>
+          <th><abbr title="">GS</abbr></th>
+          <th><dfn title="">Distance</dfn></th>
+          <th><abbr title="">ETE</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><input type="text" name="wp"></td>
+          <td><input type="text" name="from-to"></td>
+          <td><input type="text" name="true-track"></td>
+          <td><input type="text" name="mag-track"></td>
+          <td><input type="text" name="mef"></td>
+          <td><input type="text" name="ail"></td>
+          <td><input type="text" name="wind-dir"></td>
+          <td><input type="text" name="tempature"></td>
+          <td><input type="text" name="true-heading"></td>
+          <td><input type="text" name="mag-heading"></td>
+          <td><input type="text" name="compass-deviation"></td>
+          <td><input type="text" name="compass-heading"></td>
+          <td><input type="text" name="gs"></td>
+          <td><input type="text" name="distance"></td>
+          <td><input type="text" name="ete"></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td><label>Total</label></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tfoot>
+    </table>
+  </section>
 
   <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
   <script src="js/vendor/modernizr-3.12.0.min.js"></script>
   <script src="js/app.js"></script>
 
