@@ -1,3 +1,5 @@
+<img src="assets/weather.webp" alt="Aviation weather" style="width: 380px;" align="right">
+
 # Weather | Aviation | Quickstarts
 
 ## Clouds
