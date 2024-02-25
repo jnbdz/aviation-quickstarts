@@ -1,4 +1,4 @@
-# aviation-quickstarts
+# Aviation | Quickstarts
 Aviation quickstarts! (nothing is quick here 😉)
 ![](./assets/aviation.jpg)
 
