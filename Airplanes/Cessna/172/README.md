@@ -3,6 +3,7 @@
 ## Checklist
 ### Preflight Inspection
 
+| # | Desc. | Setting |
 --------------------------------------------------
 | 1. | Plane / Pilot documents / Keys | ON BOARD |
 | 2. | Control wheel lock / Controls - Trims | REMOVED/CHECK |
@@ -22,6 +23,7 @@
 
 ### Starting
 
+| # | Desc. | Setting |
 ---------------------------------------------------------------------
 | 1. | [PASSENGER BRIEFING](#passenger-briefing-details) | COMPLETE |
 | 2. | SEAT | ADJUST |
@@ -43,6 +45,7 @@
 
 ### After Start
 
+| # | Desc. | Setting |
 --------------------------------
 | 18. | THROTTLE | 1000 RPM |
 | 19. | OIL PRESSURE | RISE LESS THAN 30s |
@@ -62,6 +65,7 @@
 
 ### Run Up (if oil T° Green)
 
+| # | Desc. | Setting |
 -------------------------------
 | 1. | AIRCRAFT | INTO WIND |
 | 2. | NOSE WHEEL | (PEDALS) STRAIGHT |
