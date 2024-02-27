@@ -3,6 +3,7 @@
 ## Checklist
 ### Preflight Inspection
 
+--------------------------------------------------
 | 1. | Plane / Pilot documents / Keys | ON BOARD |
 | 2. | Control wheel lock / Controls - Trims | REMOVED/CHECK |
 | 3. | Extinguisher, first aid kit | CHECK |
@@ -21,6 +22,7 @@
 
 ### Starting
 
+---------------------------------------------------------------------
 | 1. | [PASSENGER BRIEFING](#passenger-briefing-details) | COMPLETE |
 | 2. | SEAT | ADJUST |
 | 3. | CABIN DOORS | CLOSED & LATCHED |
@@ -41,6 +43,7 @@
 
 ### After Start
 
+--------------------------------
 | 18. | THROTTLE | 1000 RPM |
 | 19. | OIL PRESSURE | RISE LESS THAN 30s |
 | 20. | OIL TEMPERATURE | CHECK |
@@ -59,6 +62,7 @@
 
 ### Run Up (if oil T° Green)
 
+-------------------------------
 | 1. | AIRCRAFT | INTO WIND |
 | 2. | NOSE WHEEL | (PEDALS) STRAIGHT |
 | 3. | AREA BEHIND THE AIRCRAFT | CLEAR |
