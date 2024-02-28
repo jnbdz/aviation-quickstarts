@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#  vim:ts=2:sts=2:sw=2:et:filetype=yaml
+
+title: STALL SPEEDS — MPH CAS
+angle_of_bank:
+	0:
+		flaps_up: 57
+		flaps_10: 52
+		flaps_40: 49
+	20:
+		flaps_up: 59
+		flaps_10: 54
+		flaps_40: 51
+ 	40:
+		flaps_up: 65
+		flaps_10: 59
+		flaps_40: 56
+	60:
+		flaps_up: 81
+		flaps_10: 74
+		flaps_40: 69
