@@ -1,3 +1,5 @@
+<img src="assets/SymphonyAircraftSA160LycomingO-320-D2A.jpg" alt="Lycoming O-320-D2A installed in a Symphony SA-160" style="width: 380px;" align="right">
+
 # Engines | 172 | Cessna | Aviation | Quickstarts
 Cessna 172 generally use [Lycoming O-320 Series](https://en.wikipedia.org/wiki/Lycoming_O-320) engines.
 
