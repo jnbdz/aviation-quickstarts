@@ -5,6 +5,7 @@ Aviation quickstarts! (nothing is quick here 😉)
 ## Resources
 - [LiveATC.net](https://www.liveatc.net/)
 - [ADS-B Exchange - tracking thousands of aircraft](https://globe.adsbexchange.com/)
+- [Aviation | Stackexchange](https://aviation.stackexchange.com/)
 - YouTube channels: 
   - [Free Pilot Training](https://www.youtube.com/@FreePilotTraining)
 ### Linux
