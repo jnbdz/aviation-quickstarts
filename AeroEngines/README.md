@@ -5,3 +5,4 @@
 - [Don't Let Carburetor Ice Happen To You | boldmethod](https://www.boldmethod.com/learn-to-fly/aircraft-systems/dont-let-carb-ice-happen-to-you/)
 - [Carburettor Icing Probability Chart](https://www.casa.gov.au/sites/default/files/2022-10/carburettor-icing-probability-chart.pdf)
 - [Carburetor Icing: Part II, Symptoms and Remedies](http://www.principalair.ca/article%20-%20icing2.htm)
+- [Icing | weather.gov](https://www.weather.gov/source/zhu/ZHU_Training_Page/icing_stuff/icing/icing.htm)
