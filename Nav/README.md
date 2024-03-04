@@ -14,3 +14,6 @@
 - Canadian Airport Charts (CAC)
   - [Documents](./Documents/cac_05jan.pdf)
   - [Operational Guides | Aeronautical Information | Nav Canada](https://www.navcanada.ca/en/aeronautical-information/operational-guides.aspx#093dcf9f312e43df922dec86e7f295d7)
+
+## Tutorials
+- [Navigation Planning | Runup.ca](https://www.runup.ca/topic/navigation-log/)
