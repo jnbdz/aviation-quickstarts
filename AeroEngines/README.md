@@ -1,5 +1,62 @@
 # Aero Engines | Aviation | Quickstarts
 
+## Carburator Icing
+### Chart Data Points
+- 
+- [Curve Fitting in Excel (With Examples) | Statology](https://www.statology.org/curve-fitting-in-excel/) - To get the numbers from a graph
+- [Polynomial polyfit | NumPy](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.polyfit.html)
+
+> Still in the works.
+
+![](./assets/8Ijnk.png)
+
+The data points: 
+
+```python
+[19.634  1.688 -0.044  0.    -0.    -0.   ]
+[ 1.5896e+01  1.9160e+00 -1.4600e-01  1.1000e-02 -0.0000e+00  0.0000e+00]
+[ 8.797e+00  2.878e+00 -3.080e-01  2.400e-02 -1.000e-03  0.000e+00]
+[ 4.955e+00  3.183e+00 -5.500e-01  6.500e-02 -4.000e-03  0.000e+00]
+```
+
+Code used: 
+
+```python
+for a in [c1,c2,c3,c4]:
+
+    # Unpack input array
+    dp, t = a[:,0], a[:,1]
+
+    # Coeffs - Low to high power
+    c = npp.polyfit(dp, t, deg=5)
+    print(np.round(c, 3))
+
+    # Curve samples
+    dp_s = np.linspace(dp[0], dp[-1], 20)
+    t_s = npp.polyval(dp_s, c)
+    
+    # Plot everything
+    ax.plot(t_s, dp_s, c='m', lw=3) # samples
+    ax.scatter(t, dp, c='m', s=90) # input points
+```
+
+
+```python
+c1 = np.array([[-13.9, -13.7],
+               [-9.2,  -0.],
+               ...
+```
+
+Since the original functions are not injective (folded curves), the polynomials are the inverse functions, they take the dew point as the variable, and return the temperature: 
+```math
+t=p(dp)
+```
+
+Source: 
+- [What are the Cessna 172 carburetor icing chart data points? | Aviation | StackExchange](https://aviation.stackexchange.com/questions/104108/what-are-the-cessna-172-carburetor-icing-chart-data-points)
+Credit: 
+- [mins](https://aviation.stackexchange.com/users/3201/mins)
+
 ## Documents
 - [Aircraft Carburettor Icing Studies | LR-536 | Mechanical Engineering Report | National Research Council Of Canada | LR-536.pdf](./Documents/LR-536.pdf) - Authors: L. Gardner and G. Moon (Devision Of Mechanical Engineering). Ottawa July 1970. NRC NO. 11621
 - [Aircraft Systems | Chapter 7 | ...](./Documents/09_phak_ch7.pdf)
