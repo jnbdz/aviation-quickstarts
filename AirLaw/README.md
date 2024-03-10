@@ -1,4 +1,14 @@
 # Air Law | Aviation | Quickstarts
+## Rules by altitude
+- 3000ft AGL
+  - CAR 602.34
+  - cruising altitude
+  - or cruising flight level appropriate to the track (unless the pilot-in-command is assigned another altitude or flight level by an air traffic control unit)
+  - VFR
+  - IFR
+## Rules by distance
+- 25NM
+  - You need Journey Log ()
 ## In-Flight Intercept Procedures
 - [In-Flight Intercept Procedures | FAA](./Documents/Intercept-Procedures.pdf)
 ### Important!
