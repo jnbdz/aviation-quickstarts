@@ -23,12 +23,13 @@ How can a heavier-than-air happen?
   - What pulls up the plane
 2. *weight* 
   - What pulls down the plane (opposite affect of *lift*)
+  - Total weight of the aircraft and its content
 3. *thrust* 
   - What pulls foward the plane
   - Provided by the propeller
 4. *drag*
   - What slows down the plane (pulls back; opposite affect of *thrust*)
   - Resistance of the air when in contact with the plane and all its components
-
-### Thrust and Drag Forces
+  - Thrust and drag are the forces that act on the aircraft in a level flight
+### Relative Airflow
 - 
