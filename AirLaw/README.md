@@ -21,4 +21,5 @@
    - **unless otherwise instructed by ATC**
 4. The crew of the intercepted aircraft must continue to comply with interceptor aircraft signals and instructions until positively released
 
-
+## Resources
+- https://www.faa.gov/sites/faa.gov/files/2022-01/Intercept-Procedures.pdf
