@@ -15,7 +15,10 @@
   - and radio communications
 2. Attempt to establish radio communications with the: 
    - intercepting aircraft 
-   - or with the appropriate ATC facility by making a general call on guard (**121.5 MHz**), giving the identity, position, and nature of the flight
+   - or with the appropriate ATC facility by making a general call on guard (**121.5 MHz**): 
+     - giving the identity
+     - position
+     - and nature of the flight
 3. If transponder equipped:
    - squawk **7700**
    - **unless otherwise instructed by ATC**
