@@ -2,6 +2,8 @@
 Aviation quickstarts! (nothing is quick here 😉)
 ![](./assets/aviation.jpg)
 
+**!WARNING!** I try to be as accurate as possible but there might be errors or wrong information found here. So please be diligent and verify the information. I do include sources like links and PDF documents that come from official sources.
+
 ## Resources
 - [LiveATC.net](https://www.liveatc.net/)
 - [ADS-B Exchange - tracking thousands of aircraft](https://globe.adsbexchange.com/)
