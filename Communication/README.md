@@ -130,6 +130,8 @@
 ## ABBREVIATIONS
 - [MANAB - Manual of word abbreviation](./En56-238-1-2021-eng.pdf) - English & Français
 
+## 
+
 ## Resources
 - [Section 2 Commentary - Robyn's Improved PSTAR Study Guide](https://www.flyingstart.ca/FlightTraining/PSTAR/2As.htm)
 - [Section 3 Commentary - Robyn's Improved PSTAR Study Guide](https://www.flyingstart.ca/FlightTraining/PSTAR/3As.htm)
