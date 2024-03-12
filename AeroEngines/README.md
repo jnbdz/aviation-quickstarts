@@ -113,6 +113,8 @@ Credit:
   - Source: https://www.cps-parts.com/cps/pdf/Part62.pdf
 - [Certified Rotax Service Training | CPS](./Documents/Part63.pdf)
   - Source: https://www.cps-parts.com/cps/pdf/Part63.pdf
+- [Engine Power Loss Due to Carburetor Icing | Safety Alert | NTSB](./Documents/SA-029.pdf)
+  - Source: https://www.ntsb.gov/Advocacy/safety-alerts/Documents/SA-029.pdf
 
 ## Resources
 - [Take Five: Carburetor Icing (TP 2228E - 38) | TC - Canada](https://tc.canada.ca/en/aviation/publications/take-fivefor-safety-tp-2228/take-five-carburetor-icing-tp-2228e-38)
