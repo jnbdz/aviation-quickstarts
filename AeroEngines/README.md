@@ -65,6 +65,7 @@ Credit:
 - [Light Aircraft Piston Engine Carburator Ice Detector/Warning Device Sensitivity/Effectiveness (AD A117745) (DOT/FAA/CT-82/44)](./Documents/ADA117745.pdf) - Authors: William Cavage, James Newcomb and Keith Biechi. Date: June 1982. (Final Report)
 - [Piston Engine Icing | EGAST - Component of ESSI | European General Aviation Safety Team](./Documents/EGAST_GA5-Piston-Engine-Icing-final.pdf) - For general aviation pilot (safety promotion leaflet) (GA 5). Web: http://easa.europa.eu/essi/egast/
 - [Engine Performance Comparison Associated with Carburetor Icing During Aviation Grade Fuel and Automotive Grade Fuel Operation (DOT/FAA/CT-82/110)](./Documents/ct82110.pdf) - Authors: William Cavage, James Newcomb and Keith Biehl. Date: May 1983. Final Report.
+- [Carburettor Icing-probability | Technical Report 04-25 | Danish Meteorological Institute](./Documents/tr04-25a.pdf)
 
 ## Resources
 - [Take Five: Carburetor Icing (TP 2228E - 38) | TC - Canada](https://tc.canada.ca/en/aviation/publications/take-fivefor-safety-tp-2228/take-five-carburetor-icing-tp-2228e-38)
