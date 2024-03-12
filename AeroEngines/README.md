@@ -66,6 +66,53 @@ Credit:
 - [Piston Engine Icing | EGAST - Component of ESSI | European General Aviation Safety Team](./Documents/EGAST_GA5-Piston-Engine-Icing-final.pdf) - For general aviation pilot (safety promotion leaflet) (GA 5). Web: http://easa.europa.eu/essi/egast/
 - [Engine Performance Comparison Associated with Carburetor Icing During Aviation Grade Fuel and Automotive Grade Fuel Operation (DOT/FAA/CT-82/110)](./Documents/ct82110.pdf) - Authors: William Cavage, James Newcomb and Keith Biehl. Date: May 1983. Final Report.
 - [Carburettor Icing-probability | Technical Report 04-25 | Danish Meteorological Institute](./Documents/tr04-25a.pdf)
+  - Source: https://www.dmi.dk/fileadmin/user_upload/Rapporter/TR/2004/tr04-25a.pdf
+- [Failsafe Fuel Delivery | CPS](./Documents/Part41.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part41.pdf
+- [Of Which Powerplant Is Best For Your Kitplane | CPS](./Documents/Part42.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part42.pdf
+- [Automated Engine Monitoring | CPS](./Documents/Part43.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part43.pdf
+- [Carb Ice: The Threat And The Theory | CPS](./Documents/Part44.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part44.pdf
+- [The Pros and Cons of Oil Injection | CPS](./Documents/Part45.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part45.pdf
+- [The Stealth Rotax | CPS](./Documents/Part46.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part46.pdf
+- [Rotax Piston Maintenance | CPS](./Documents/Part47.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part47.pdf
+- [Rotax Exhaust Alternative | CPS](./Documents/Part48.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part48.pdf
+- [Utilizing the Ducati Generator Output | CPS](./Documents/Part49.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part49.pdf
+- [Curing Rotary Valve Shaft Problems | CPS](./Documents/Part50.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part50.pdf
+- [Rotax Online Warranty Registration | CPS](./Documents/Part51.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part51.pdf
+- [Rebuilding the Bing Carb | CPS](./Documents/Part52.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part52.pdf
+- [Fuel Pump Maintenance | CPS](./Documents/Part53.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part53.pdf
+- [Gear Box Maintenance | CPS](./Documents/Part54.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part54.pdf
+- [C & E Gearbox Maintenance – Basic Teardown & Inspection | CPS](./Documents/Part55.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part55.pdf
+- [ C & E Gearbox Maintenance - Changing Gears & Propshaft | CPS](./Documents/Part56.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part56.pdf
+- [Rotax Storage and Water Damage | CPS](./Documents/Part57.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part57.pdf
+- [Troubleshooting the Ducati Ignition | CPS](./Documents/Part58.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part58.pdf
+- [Diagnostic Leak Testing | CPS](./Documents/Part59.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part59.pdf
+- [Using Choke in Carburetor Tuning | CPS](./Documents/Part60.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part60.pdf
+- [What to Know about Prop Strikes | CPS](./Documents/Part61.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part61.pdf
+- [Proper Crankshaft Evaluation | CPS](./Documents/Part62.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part62.pdf
+- [Certified Rotax Service Training | CPS](./Documents/Part63.pdf)
+  - Source: https://www.cps-parts.com/cps/pdf/Part63.pdf
 
 ## Resources
 - [Take Five: Carburetor Icing (TP 2228E - 38) | TC - Canada](https://tc.canada.ca/en/aviation/publications/take-fivefor-safety-tp-2228/take-five-carburetor-icing-tp-2228e-38)
