@@ -2,6 +2,41 @@
 
 # Weather | Aviation | Quickstarts
 
+## Terms
+- METAR - Meteorological Aerodrome Report - A regular scheduled weather report that usually comes out once every hour
+- SPECI - Special Weather Report - An unschedule weather report that comes out between the hourly METARs - For when we have bad weather or rapidly changing weather
+### Surface Observation Format
+- Airfield Name
+- Date/Time
+- Wind
+- Visibility
+- Significant Weather
+- Clouds/Ceilings
+- Temperature/Dewpoint
+- Altimeter
+- Remarks
+
+> WARNING! Some of this information is not required
+> 
+> Like: 
+> - Significant Weather
+> - Dewpoint
+> - Remarks
+
+#### Exemple
+- KTUL 250153Z 04011KT 10SM SCT250 08/01 RMK AO2 SPL143 T00780006
+  - KTUL - Airport identifier
+  - 250153Z - Date and Time in Zulu - 
+    - 25 - Day of the month
+    - 01 - Hour
+    - 53 - Minute
+    - Z - Depending if this is 
+
+## Airport Identifier Codes
+- USA - They all start with `K` followed by 3 digits (K XXX)
+  - Alaska and Hawaii it is `P` followed by 3 digits
+- Canada `C` followed by 3 digits (C XXX) (e.g.: CYUL)
+
 ## Clouds
 ### Cloud types
 ![](./assets/Cloud_types_en.svg)
