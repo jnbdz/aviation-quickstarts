@@ -30,7 +30,24 @@
     - 25 - Day of the month
     - 01 - Hour
     - 53 - Minute
-    - Z - Depending if this is 
+    - Z - To get the local time you will need to add  hours based on **daylight saving time** (timezone).
+      - [Z-time (Coordinated Universal Time) | NOAA](https://www.noaa.gov/jetstream/time)
+      - So for Eastern time (+5) you need to substract 5 (-5) to the ZULU time that you get (use the table as ref. found in the noaa website)
+      - [...]
+  - 04011KT
+    - Wind direction - 40°
+    - Wind speed - 11 KT
+    - 11G21KT (so with a G) - The wind varies from 11 and 21 KT
+  - 10SM
+    - Visibility - Statute Miles (1SM = 5,280 ft)
+    - Controlled Airspace: Minimum ceiling: 1,000ft
+    - Minimum visibility: 3SM
+  - RA, +RA, -RA
+    - `-` and `+` are qualifiers
+    - RA - Raining
+    - This is used to explain the low visibility
+  - SCT250
+    - 
 
 ## Airport Identifier Codes
 - USA - They all start with `K` followed by 3 digits (K XXX)
