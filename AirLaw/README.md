@@ -48,6 +48,9 @@
 ### => 5 years
 - 
 
+## Digital LogBook
+- https://www.law.cornell.edu/cfr/text/14/61.51
+
 ## Resources
 - https://www.faa.gov/sites/faa.gov/files/2022-01/Intercept-Procedures.pdf
 - https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433
