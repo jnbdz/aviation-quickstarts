@@ -1,5 +1,11 @@
 # 172 | Cessna | Aviation | Quickstarts
 
+## Parts
+### Resources
+#### Videos
+- [Inside a Single-Engine Aircraft | How a Cessna 172 Works | YouTube](https://www.youtube.com/watch?v=DvCv2SuKCE8)
+- [Aircraft Systems - 07 - Hydraulic System | YouTube](https://www.youtube.com/watch?v=M1UddxRAjbc)
+
 ## Checklist
 ### Preflight Inspection
 

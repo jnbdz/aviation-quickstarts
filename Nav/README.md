@@ -59,3 +59,7 @@ DIST  _______ NM (make sure to have the right unit conv)
 ```
 
 An example would be a question like **What is the distance between these latitudes: N37°25’ and N39°10’?** == 120.83SM (make sure you have the right **unit conv**)
+
+## Resources
+### Videos
+- [VFR Sectional Explained! (All About Airports) Private Pilot Ground Lesson 25 | YouTube](https://www.youtube.com/watch?v=TMkqcorBcdU)
