@@ -62,4 +62,19 @@ An example would be a question like **What is the distance between these latitud
 
 ## Resources
 ### Videos
+- [Class B Airspace {What You NEED to know} PPL Ground lesson 16 | YouTube](https://www.youtube.com/watch?v=gS9RgkRIPZ4)
+- [Private Pilot Lesson on Class C Airspace (Lesson 17) | YouTube](https://www.youtube.com/watch?v=M-2VWNQ2Ukk)
+- [Class D Airspace (What you need to know) Private Pilot Ground Lesson 18 | YouTube](https://www.youtube.com/watch?v=wYH4gQ-pOmE)
+- [Class G Airspace Explained (Private Pilot Ground Lesson 20) | YouTube](https://www.youtube.com/watch?v=0Liq4ZB5m6U)
+- [Can I fly in a RESTRICTED AREA? (and other SUA) Private Pilot Ground Lesson 21 | YouTube](https://www.youtube.com/watch?v=doKwv3ylx8E)
+- [All the “Other Airspace” Private Pilots MUST Know! (Private Pilot Ground Lesson 22) | YouTube](https://www.youtube.com/watch?v=MOqtfy45qKQ)
 - [VFR Sectional Explained! (All About Airports) Private Pilot Ground Lesson 25 | YouTube](https://www.youtube.com/watch?v=TMkqcorBcdU)
+- [How to Use the VFR sectional to pick SAFE Altitudes. (Private Pilot Ground Lesson 26) | YouTube](https://www.youtube.com/watch?v=5KpJzNHLe-M)
+- [VFR Navigational Symbols Explained (Private Pilot Ground Lesson 27) | YouTube](https://www.youtube.com/watch?v=Kohx5s6BCRQ)
+- [You WILL Understand VORs after Watching This! (PPL Lesson 37) | YouTube](https://www.youtube.com/watch?v=6S95qXQNTzM)
+- [GPS Navigation Explained (Private Pilot Ground Lesson 38) | YouTube](https://www.youtube.com/watch?v=yh73ip84M4I)
+- [Flight Service Stations MADE EASY (PPL Lesson 44) | YouTube](https://www.youtube.com/watch?v=pvBNaSMaFd8)
+- [X/C Navigation Log Explained (WITH Calculations) PPL Lesson 46 | YouTube](https://www.youtube.com/watch?v=Ydvev6B7IaY)
+- [The COMPLETE Guide on the E6B Flight Computer (PPL Lesson 47) | YouTube](https://www.youtube.com/watch?v=L8ORGN6zZog)
+- [You DON'T Need an E6B Flight Computer (PPL Lesson 48) | YouTube](https://www.youtube.com/watch?v=QXz9sMUdbZ0)
+- [How to Fly a Cross Country with a NAV LOG (PPL Lesson 49) | YouTube](https://www.youtube.com/watch?v=2tIYJyRldzM)

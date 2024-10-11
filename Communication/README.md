@@ -135,3 +135,7 @@
 ## Resources
 - [Section 2 Commentary - Robyn's Improved PSTAR Study Guide](https://www.flyingstart.ca/FlightTraining/PSTAR/2As.htm)
 - [Section 3 Commentary - Robyn's Improved PSTAR Study Guide](https://www.flyingstart.ca/FlightTraining/PSTAR/3As.htm)
+### Videos
+- [How to Talk on the Radio {Private Pilot Basics} | YouTube](https://www.youtube.com/watch?v=omvFKtU2Q3w)
+- [Non-Towered Radio Calls Made Easy | YouTube](https://www.youtube.com/watch?v=-_xBS6vTO9E)
+- [Don't be Afraid of ATC Here's Why! (Private Pilot Ground Lesson 35) | YouTube](https://www.youtube.com/watch?v=ndHyt1fbBcM)
