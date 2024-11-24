@@ -24,6 +24,8 @@
   - [ ] **Fire Extinguisher** - Must be in the green
   - [ ] **Emergency Locator Transmitter (ELT)** - (Only do so if instructed by the pilot)
   - [ ] **Emergency Exits** - 
-  - [ ] **Seat Belts**
-  - [ ] **Emergencies**
-  - [ ] **Comfort**
+  - [ ] **Seat Belts** 
+    - [ ] *Demonstrate how to use them.*
+    - [ ] Must keep on for the full flight
+  - [ ] **Emergencies** - In case of an in-flight emergency, the pilot will give you instructions to follow. Important to understand. Ask questions.
+  - [ ] **Comfort** - 
