@@ -29,3 +29,6 @@
     - [ ] Must keep on for the full flight
   - [ ] **Emergencies** - In case of an in-flight emergency, the pilot will give you instructions to follow. Important to understand. Ask questions.
   - [ ] **Comfort** - 
+
+## Sources
+- [Equipment Commentary | flyingstart.ca](https://www.flyingstart.ca/FlightTraining/PSTAR/5As.htm)
