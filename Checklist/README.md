@@ -20,15 +20,17 @@
 ## Checklist - Cessna 172
 - [ ] Passenger briefing
   - [ ] **No Smoking** - There is no smoking in or around the aircraft as well as on the tarmac at any time.
-  - [ ] **First Aid**
-  - [ ] **Fire Extinguisher** - Must be in the green
+  - [ ] **First Aid** - Where it is...
+  - [ ] **Fire Extinguisher** - How to use it...
   - [ ] **Emergency Locator Transmitter (ELT)** - (Only do so if instructed by the pilot)
-  - [ ] **Emergency Exits** - 
+  - [ ] **Emergency Exits** - In case of emergency unlock the doors and exit towards the back to avoid the propeller
   - [ ] **Seat Belts** 
     - [ ] *Demonstrate how to use them.*
-    - [ ] Must keep on for the full flight
+    - [ ] Must keep on for the entire flight
   - [ ] **Emergencies** - In case of an in-flight emergency, the pilot will give you instructions to follow. Important to understand. Ask questions.
-  - [ ] **Comfort** - 
+  - [ ] **Comfort** - Bathroom, sunglasses, camera, clothes for the weather
+  - [ ] **Talking** - No talking during takeoff and landing or radio communications
+  - [ ] **Touching** - No touching any of the instruments and commands
 
 ## Sources
 - [Equipment Commentary | flyingstart.ca](https://www.flyingstart.ca/FlightTraining/PSTAR/5As.htm)
