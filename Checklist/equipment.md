@@ -1,0 +1,21 @@
+# Equipment - Checklist | Aviation | Quickstarts
+
+A/C REGISTRATION: __________________  A/C MODEL: _________
+
+## SCHEDULED CHECK CYCLE
+
+| INSPECTION DUE     | HOURS   | DATE     | TOLERANCES | WORK ORDER |
+| ------------------ | ------- | -------- | ---------- | ---------- |
+|                    |         |          |            |            |
+|                    |         |          |            |            |
+|                    |         |          |            |            |
+|                    |         |          |            |            |
+|                    |         |          |            |            |
+|                    |         |          |            |            |
+
+> [!NOTE]
+> Private plane: Every 100 hours and every year whichever comes first
+> School: 50 -> 50/100 -> 50 -> 50/100/200
+
+## OUT OF PHASES TASKS
+

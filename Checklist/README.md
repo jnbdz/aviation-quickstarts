@@ -11,7 +11,7 @@
         - [ ] School arcraft ?
           - [ ] 50 hours
           - [ ] 100 hours
-	  - [ ] 50 hours
+          - [ ] 50 hours
           - [ ] 200 hours
       - [ ] Is there any unresolved airworthiness directives (ADs)?
       - [ ] Are there modifications that have been made that do not comply with regulations?
@@ -70,8 +70,9 @@
 - [ ] TFRs (US)
   - [ ] Temporary Flight Restriction
 ## Nav
+- [ ] ...
 - [ ] Going to US?
-  - [ ] Call ...
+  - [ ] Call 
 - [ ] ...
 ## Checklist - Cessna 172
 - [ ] Infant under two years of age: an be held on an adult passenger's lap or secured in an infant car seat (CAD: CARs 101.01)
