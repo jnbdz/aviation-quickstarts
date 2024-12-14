@@ -1,23 +1,81 @@
 # Checklist | Aviation | Quickstarts
 ## Pre-Flight Checklist
 - [ ] Flight over 25NM or/and to another airport
-  - [ ] Required Documents (ARROW)
-    - [ ] Airworthiness Certificate
+  - [ ] Required Documents (US: ARROW, CAD: AROWILL)
+    - [ ] **Airworthiness Certificate** (CAD: CARs 605.03)
       - [ ] Does the aircraft fails to meet applicable airworthiness standards?
       - [ ] Has the aircraft undergone required maintenance, inspections, or repairs?
-        - [ ] 
+        - [ ] ...
         - [ ] Private aircraft?
-          - [ ] 50 hours and every year
+          - [ ] 100 hours and every year whichever comes first
         - [ ] School arcraft ?
           - [ ] 50 hours
           - [ ] 100 hours
+	  - [ ] 50 hours
           - [ ] 200 hours
       - [ ] Is there any unresolved airworthiness directives (ADs)?
       - [ ] Are there modifications that have been made that do not comply with regulations?
-  - [ ] Registration Certificate
+  - [ ] **Registration Certificate** (CAD: CARs 202.26)
     - [ ] Has the ownership of the aircraft changed?
     - [ ] Is the registration expired (expires every 3 years for FAA registration)? **
+  - [ ] **Owner's Manual (POH)** (CAD: CARs 605.04)
+  - [ ] **W eight & Balance** (CAD: )
+  - [ ] **Insurance** (CAD: CARs 606.02)
+  - [ ] **Licences** (CAD: pilot's licence, medical, and radio licence - CARs 401.03)
+  - [ ] **Logbook** (the aircraft journey logbook, not your personal logbook)
+- [ ] CFS
+- [ ] [Designated Airspace Handbook](https://www.navcanada.ca/en/aeronautical-information/operational-guides.aspx#093dcf9f312e43df922dec86e7f295d7)
+- [ ] VFR equipment (CAD: CARs 605.14) (CAD: the standard it needs to have: CARs 602.59) - mnemonics: **TOMATO FLAMES**
+  - CAD: 
+    - [ ] **Tachometer**
+    - [ ] **Oil pressure gauge for each engine**
+    - [ ] **Magnetic compass**
+    - [ ] **Altimeter**
+    - [ ] **Timepiece** (e.g. a wristwatch or a working dashboard clock)
+    - [ ] **Oil temperature gauge** (or other coolant gauge as applicable)
+    - ------
+    - [ ] **Fuel gauge** (can just be a visual indication of the level)
+    - [ ] **Landing gear position indicator** (if retractable)
+    - [ ] **Airspeed indicator**
+    - [ ] **Manifold pressure gauge** (if relevant)
+    - [ ] **Emergency equipment** (first aid kit, fire extinguisher, ELT)
+    - [ ] **Survival equipment appropriate to the season, geographic area, and route of flight**
+  - US: 
+    - [ ] O - Oil pressure gauge
+    - [ ] M - Manifold pressure gauge
+    - [ ] A - Altimeter
+    - [ ] T - Temperature gauge for each liquid cooled engine
+    - [ ] O - Oil temperature gauge
+    - ------
+    - [ ] F - Fuel gauge
+    - [ ] L - Landing gear position indicator
+    - [ ] A - Airspeed indicator
+    - [ ] M - Magnetic direction indicator (compass)
+    - [ ] E - ELT
+    - [ ] S - Seatbelts
+## Weather and NOTAMs
+- [ ] Weather
+  - [ ] AWWS
+  - [ ] PIREPs - Pilot Reports
+  - [ ] AIRMETs -
+  - [ ] SIGMETs - 
+  - [ ] Covective SIGMETs - 
+  - [ ] METAR - 
+  - [ ] TAF - Terminal Aerodrone Forecast 
+  - [ ] GFA
+- [ ] NOTAMs
+  - [ ] NOTAM (N) - New NOTAM
+  - [ ] NOTAM (R) - Replacement NOTAM
+  - [ ] NOTAM (C) - Cancelled NOTAM
+- [ ] TFRs (US)
+  - [ ] Temporary Flight Restriction
+## Nav
+- [ ] Going to US?
+  - [ ] Call ...
+- [ ] ...
 ## Checklist - Cessna 172
+- [ ] Infant under two years of age: an be held on an adult passenger's lap or secured in an infant car seat (CAD: CARs 101.01)
+- [ ] Children older than two years of age need their own seat (CAD: CARs 605.25 and 605.26)
 - [ ] Passenger briefing
   - [ ] **No Smoking** - There is no smoking in or around the aircraft as well as on the tarmac at any time.
   - [ ] **First Aid** - Where it is...
@@ -31,6 +89,13 @@
   - [ ] **Comfort** - Bathroom, sunglasses, camera, clothes for the weather
   - [ ] **Talking** - No talking during takeoff and landing or radio communications
   - [ ] **Touching** - No touching any of the instruments and commands
+
+## Frequencies
+- **121.5** for emergencies
+  - **243.0** for UHF emergency frequency
+- **121.9** a common ground control frequency, especially in the United States
+- **122.2** (United States) "Flight Watch" frequency, for PIREPs and weather.
+- **126.7** is the Canadian enroute frequency.
 
 ## Sources
 - [Equipment Commentary | flyingstart.ca](https://www.flyingstart.ca/FlightTraining/PSTAR/5As.htm)
