@@ -69,11 +69,6 @@
   - [ ] NOTAM (C) - Cancelled NOTAM
 - [ ] TFRs (US)
   - [ ] Temporary Flight Restriction
-## Nav
-- [ ] 
-- [ ] Going to US?
-  - [ ] Call 
-- [ ] ...
 ## Checklist - Cessna 172
 - [ ] Infant under two years of age: an be held on an adult passenger's lap or secured in an infant car seat (CAD: CARs 101.01)
 - [ ] Children older than two years of age need their own seat (CAD: CARs 605.25 and 605.26)
