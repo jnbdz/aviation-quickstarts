@@ -70,7 +70,7 @@
 - [ ] TFRs (US)
   - [ ] Temporary Flight Restriction
 ## Nav
-- [ ] ...
+- [ ] 
 - [ ] Going to US?
   - [ ] Call 
 - [ ] ...
