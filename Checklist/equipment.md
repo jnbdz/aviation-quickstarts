@@ -4,14 +4,14 @@ A/C REGISTRATION: __________________  A/C MODEL: _________
 
 ## SCHEDULED CHECK CYCLE
 
-| INSPECTION DUE     | HOURS   | DATE     | TOLERANCES | WORK ORDER |
-| ------------------ | ------- | -------- | ---------- | ---------- |
-|                    |         |          |            |            |
-|                    |         |          |            |            |
-|                    |         |          |            |            |
-|                    |         |          |            |            |
-|                    |         |          |            |            |
-|                    |         |          |            |            |
+| INSPECTION DUE     | HOURS   | DATE     | TOLERANCES | WORK ORDER | PAGE |
+| ------------------ | ------- | -------- | ---------- | ---------- | ---- |
+|                    |         |          |            |            |      |
+|                    |         |          |            |            |      |
+|                    |         |          |            |            |      |
+|                    |         |          |            |            |      |
+|                    |         |          |            |            |      |
+|                    |         |          |            |            |      |
 
 > [!NOTE]
 > Private plane: Every 100 hours and every year whichever comes first
@@ -33,9 +33,9 @@ A/C REGISTRATION: __________________  A/C MODEL: _________
 
 ## DEFERRED DEFECT
 
-| DESCRIPTION        | DATE (YY/MM/DD) | DUE DATE | RECTIFICATION | W/O           | DATE (YY/MM/DD) |
-| ------------------ | --------------- | -------- | ------------- | ------------- | --------------- |
-|                    |                 |          |               |               |                 |
-|                    |                 |          |               |               |                 |
-|                    |                 |          |               |               |                 |
-|                    |                 |          |               |               |                 |
+| DESCRIPTION        | DATE (YY/MM/DD) | DUE DATE | RECTIFICATION | W/O           | DATE (YY/MM/DD) | PAGE |
+| ------------------ | --------------- | -------- | ------------- | ------------- | --------------- | ---- |
+|                    |                 |          |               |               |                 |      |
+|                    |                 |          |               |               |                 |      |
+|                    |                 |          |               |               |                 |      |
+|                    |                 |          |               |               |                 |      |
