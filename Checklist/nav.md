@@ -17,6 +17,7 @@
 - 29.92 | 15°C | 2°C lost per 1000ft
 - [ ] Pressure Altitude: ((29.92 - **on the ground pressure**) * 1000) + **airadrone altitude**
 - [ ] Density Altitude: E6-B -> Altitude IAlt = **Pressure Altitude** | Baro = **on the ground pressure** | PAlt = **this will be filled automatically** | OAT = **in °C outside temp.** | DAlt = **this will be filled automatically**
+  - [ ] 
 - [ ] 
 
 ## Resources
